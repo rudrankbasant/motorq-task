@@ -25,10 +25,10 @@ REDIS_URL=<REDIS URL>
 
 
 
-![image](https://github.com/rudrankbasant/motorq-task/assets/85751479/66c2636d-ed49-49ce-aefa-aed0852dbe0a)
+![image](https://github.com/rudrankbasant/motorq-task/assets/85751479/b38dbb05-5a07-4c63-9d6b-eef588a7b5fa)
 
-![image](https://github.com/rudrankbasant/motorq-task/assets/85751479/7ed6df72-9db8-4815-ab83-d514b9f97e2e)
+![image](https://github.com/rudrankbasant/motorq-task/assets/85751479/f378ce25-db5d-4f70-9453-e1d693bfc333)
+![image](https://github.com/rudrankbasant/motorq-task/assets/85751479/52ee32e8-ae67-4342-b65f-b81f06bf2f55)
 
-![image](https://github.com/rudrankbasant/motorq-task/assets/85751479/0ab1d87a-1585-4614-b1f8-dd60d5896023)
 
 
