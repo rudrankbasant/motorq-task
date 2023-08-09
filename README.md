@@ -1,5 +1,8 @@
 # MotorQ Task
 - By Rudrank Basant
+- 21BCI0149
+- rudrank123@gmail.com
+- rudrank.basant2021@vitstudent.ac.in
 
 ## Installation:
 1. Install the modules with `pip install -r requirements.txt`
