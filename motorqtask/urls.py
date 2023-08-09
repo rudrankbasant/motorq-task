@@ -27,6 +27,6 @@ urlpatterns = [
 ]
 
 # Initialize the scheduler
-tasks.scheduler.add_job(tasks.update_coin_details, 'interval', minutes=1)
+tasks.scheduler.add_job(tasks.update_coin_details, 'interval', minutes=10)
 # tasks.scheduler.add_job(tasks.price_update, 'interval', minutes=1)
 tasks.scheduler.start()
