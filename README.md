@@ -1,5 +1,5 @@
 # MotorQ Task
-- By Rudrank B
+- By Rudrank Basant
 
 ## Installation:
 1. Install the modules with `pip install -r requirements.txt`
@@ -17,3 +17,12 @@ REDIS_URL=<REDIS URL>
     Rate Limiting Executed 
     Airtable populated with 20 records
     API endpoint to fetch data from airtable /coins
+
+
+
+![image](https://github.com/rudrankbasant/motorq-task/assets/85751479/8f696ef8-4a0e-456a-929a-303b831b1700)
+
+
+![image](https://github.com/rudrankbasant/motorq-task/assets/85751479/0ab1d87a-1585-4614-b1f8-dd60d5896023)
+
+
