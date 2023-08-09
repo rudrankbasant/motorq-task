@@ -66,7 +66,9 @@ def price_update():
     for coin in coin_data2:
         if coin_dict[coin] != coin_data2[coin]['usd']:
             coin_dict[coin] = coin_data2[coin]['usd']
-            airtable.match("coin_id", coin)
-
+            rec = airtable.match("coin_id", coin)
+            fields = rec["fields"]
+            fields["price"] = coin_data2[coin]['usd']
+            airtable.replace(rec['id'], fields)
 
 scheduler = BackgroundScheduler()
